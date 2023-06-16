@@ -1,37 +1,34 @@
+
+  
 # Professional-Info
+![MIT](https://img.shields.io/badge/License-MIT-blue)
+
+
 
 ## Description
+Created a professional readme for a project
 
-This application focused on working with node building a professional readme.
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
-
-downloading Node v16 application onto computer.
-
-## User Story
-
-AS A developer<br>
-I WANT a README generator<br>
-SO THAT I can quickly create a professional README for a new project
-
-## Acceptance Criteria
-
-GIVEN a command-line application that accepts user input<br>
-WHEN I am prompted for information about my application repository<br>
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
-WHEN I enter my project title<br>
-THEN this is displayed as the title of the README<br>
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions<br>
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests<br>
-WHEN I choose a license for my application from a list of options<br>
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under<br>
-WHEN I enter my GitHub username<br>
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile<br>
-WHEN I enter my email address<br>
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions<br>
-WHEN I click on the links in the Table of Contents<br>
-THEN I am taken to the corresponding section of the README
+Install Node.js V16 and Inquirer
 
 ## Usage
+to generate a readme
 
-## Links
+## Contributors
+Alexis
+
+## License
+MIT
+
+## Tests
+look for the readme in the dist folder
+ 
+## Questions
+If there are any questions or concerns, we can be reached at [Email](mailto:lexx.sunshineteam@gmail.com) or at [Github](https://github.com/Lexxvasquez)
