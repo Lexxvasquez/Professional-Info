@@ -30,3 +30,11 @@ too keep using terminal to make sure codes are working
  
 ## Questions
 If there are any questions or concerns, we can be reached at [Email](mailto:lexx.sunshineteam@gmail.com) or at [Github](https://github.com/Lexxvasquez)
+
+## Links
+
+[Recorded link](https://drive.google.com/file/d/1-36Nuaow7hE5by5hXLXXb1MRwCzbKHVG/view)
+
+[Github Repo](https://github.com/Lexxvasquez/Professional-Info)
+
+
